@@ -15,6 +15,6 @@ This script performs a dictionary-based brute force attack to exploit a NoSQL in
 Install the `requests` library using pip if not already installed:
 ```bash
 pip install requests
-
+```
 ## USAGE
 python brute.py <USERNAME>
